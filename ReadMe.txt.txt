@@ -10,3 +10,5 @@ For example,
 </dependency>
 
 *You need to name your pom file as pom.xml or you can modify it on Updater.java class.
+
+Not: I'm currently working on a better Framework and I'm considering to add the project to maven repository.
